@@ -24,6 +24,6 @@ Personal collection of RL resources
 9. OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
    * https://github.com/openai/baselines
 10. PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).
-   * https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail
+      * https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail
   
   
