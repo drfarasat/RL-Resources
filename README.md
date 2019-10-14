@@ -26,4 +26,6 @@ Personal collection of RL resources
 10. PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).
       * https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail
   
+ 11. A set of Deep Reinforcement Learning Agents implemented in Tensorflow.
+      *  https://github.com/awjuliani/DeepRL-Agents
   
